@@ -1,0 +1,40 @@
+body {
+background-color: blueviolet;
+border: 30px dotted pink;
+}
+.about{
+    background-color:yellow;
+    color: black;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 37px;
+    font-weight:900;
+    text-transform:uppercase;
+    color: rgba(100, 148, 237, 0.431);
+    text-align: center;
+}
+div{
+    background-color: green;
+}
+p{
+    font-weight:100;
+    font-size: xx-large;
+}
+p.about{
+    background-color: blue;
+}
+h2.about {
+font-style:italic
+}
+h2.buyer{
+font-style:oblique;
+}
+h2.seller {
+font-style:normal;
+color:gold;
+}
+h2.money {
+font-style:inherit;
+}
